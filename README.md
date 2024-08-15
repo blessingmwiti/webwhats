@@ -1,18 +1,13 @@
-# Kotlin Webview
+# Webwhats
 
-A Kotlin App that uses a webapp url, which is rendered as an Android App.
+A Kotlin App that renders WhatsApp webview as an app
 
-## Updating URL
+## Reason for developing this project
 
-To change the url, head to
-```bash
-WebActivity.kt
-```
-and update with yours
+I have 2 phones, and wanted to use the same WhatsApp account in both phones, there are apps available, but are filled 
+with ads, privacy concerns and some need payment.
 
-## Changing App Icon
-
-Right click on app folder, choose new, then click on Image Asset
+That's when I thought, why not create one, and make it open source
 
 ## Contributing
 
